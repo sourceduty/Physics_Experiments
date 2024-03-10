@@ -196,7 +196,7 @@ Remember, while simulations can provide valuable insights, empirical testing and
 
 ![Golf Ball](https://github.com/sourceduty/Physics/assets/123030236/bcb8bd6f-fc22-4faa-a403-890fa4c662b4)
 
-# Water Breaking Golf Ball
+### Water Breaking Golf Ball
 
 Designing a simulation for a golf ball that combusts or breaks apart upon contact with water presents a unique set of challenges and considerations. This scenario involves complex interactions between the golf ball's materials and water, potentially leading to chemical reactions or physical disintegration.
 
