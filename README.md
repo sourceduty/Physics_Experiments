@@ -146,6 +146,9 @@ In summary, while the exact cost of creating a detailed physics simulation of th
 - Provide recommendations for ensuring structural integrity, such as internal steel framing or reinforced concrete core.
 - Suggest alternative designs or materials if certain sections appear impractical for brick construction.
 
+For the cost estimate, we need to calculate the total number of bricks and the volume of mortar required. Assuming a cost of $0.70 per brick and $5 per cubic foot of mortar, we can start to estimate the material costs. Labor costs would depend on the construction time and labor rates, which can vary significantly. Additional costs would include contingencies for wastage, equipment, and any additional structural supports identified as necessary during the structural analysis.
+
+Given these considerations, the cost to construct a CN Tower out of bricks and mortar would likely run into the billions of dollars, due to the sheer volume of materials needed, the complexity of the construction, and the specialized labor required. This estimate doesn't account for the practical challenges of such a construction, including the need for an internal structure to support the weight of the bricks and the likely impracticality of using bricks at extreme heights or for the antenna structure.
 
 ***
 
