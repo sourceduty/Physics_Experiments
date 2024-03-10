@@ -150,6 +150,7 @@ For the cost estimate, we need to calculate the total number of bricks and the v
 
 Given these considerations, the cost to construct a CN Tower out of bricks and mortar would likely run into the billions of dollars, due to the sheer volume of materials needed, the complexity of the construction, and the specialized labor required. This estimate doesn't account for the practical challenges of such a construction, including the need for an internal structure to support the weight of the bricks and the likely impracticality of using bricks at extreme heights or for the antenna structure.
 
+Traditional brick construction methods are not suitable for such heights due to limitations in structural integrity and load distribution. Therefore, an innovative approach would be needed, potentially involving a core structure made from steel or reinforced concrete around which the brick facade could be constructed. This core would provide the necessary strength and stability while allowing the exterior to achieve the desired brick aesthetic.
 ***
 
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
