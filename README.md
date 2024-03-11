@@ -214,7 +214,7 @@ It's important to note that such a simulation, while fascinating from a theoreti
 
 ![Moore's Law Plateau](https://github.com/sourceduty/Physics/assets/123030236/b6420155-520e-4360-8dd3-23bbc499c514)
 
-### Moore's Law Plateau
+### Moore's Law Plateau (Lull)
 
 #### Concept:
 
