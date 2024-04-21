@@ -46,7 +46,7 @@ By focusing on key sectors, the Physics Simulator GPT offers tailored advice exc
 - Noise Analysis: Studies the propagation of sound waves and their interaction with environments to assess noise levels and control.
 - Vibroacoustics: Couples mechanical vibrations with acoustic problems, relevant in automotive and aerospace industries.
 
-11. Quantum Mechanics Simulations:
+10. Quantum Mechanics Simulations:
     
 - Molecular Dynamics: Simulates the physical movements of atoms and molecules.
 - Quantum Chemistry: Studies the electronic structure of atoms and molecules.
@@ -55,7 +55,7 @@ By focusing on key sectors, the Physics Simulator GPT offers tailored advice exc
     
 - Multiscale Modeling: Combines several simulation techniques to study systems at multiple scales, from molecular to macroscopic levels.
 
-11. Multiphysics Simulations:
+12. Multiphysics Simulations:
     
 - Coupled Simulations: Integrates two or more physical models, such as fluid-structure interaction (FSI) or electro-thermal simulations, which are crucial for interdisciplinary studies and complex system 
 analyses.
