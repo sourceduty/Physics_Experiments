@@ -5,7 +5,59 @@
 
 Physics simulations are computational tools that model and predict the behavior of physical systems under various conditions, offering insights that are often impractical or impossible to obtain through traditional experiments. These simulations encompass a wide range of applications, from the vast scales of astrophysical phenomena to the minute realms of quantum mechanics. In industries such as aerospace, automotive, and energy, simulations play a pivotal role in design, testing, and optimization, enabling engineers to explore the aerodynamics of aircraft, the safety of vehicles in crash scenarios, and the efficiency of renewable energy systems, among others. At the heart of these simulations lie complex mathematical models and numerical methods, which are implemented through specialized software capable of handling the intricate computations required. Such software often utilizes advanced techniques like finite element analysis for structural modeling, computational fluid dynamics for fluid interactions, and particle simulations for granular and gas dynamics. The accuracy and reliability of these simulations depend heavily on the fidelity of the models, the resolution of the computational mesh, and the precision of the initial and boundary conditions. As computational power continues to grow, physics simulations become increasingly sophisticated, allowing for more detailed and accurate representations of the real world, though they are always complemented by empirical testing and validation to ensure their relevance and applicability to real-world scenarios.
 
+#
+
+<details><summary>Simulation Types</summary>
+<br>
+
+1. Mechanical Simulations:
+   
+   - Structural Analysis: Evaluates stress, strain, and deformation of structures under loads.
+   - Dynamics: Studies the movement of bodies under the action of forces.
+   - Vibration Analysis: Analyzes the oscillatory motion of structures and mechanical components.
+
+3. Fluid Dynamics Simulations:
+   
+   - Computational Fluid Dynamics (CFD): Simulates fluid flow, heat transfer, and associated phenomena.
+   - Aerodynamics: Focuses on air flow over bodies such as vehicles and buildings, important in aerospace and automotive industries.
+   - Hydrodynamics: Studies the flow of water and other liquids, relevant in marine and hydraulic applications.
+
+5. Thermal Simulations:
+   
+   - Heat Transfer: Models conduction, convection, and radiation in various materials and environments.
+   - Thermodynamics: Analyzes energy transformations and efficiency in systems, often coupled with fluid dynamics for energy applications.
+
+7. Electromagnetic Simulations:
+   
+   - Electrostatics: Deals with the behavior of static charges and their fields.
+   - Electrodynamics: Simulates the interaction of electric charges with dynamic electric and magnetic fields.
+   - Optics: Models the behavior of light and interaction with materials.
+
+9. Acoustic Simulations:
+    
+   - Noise Analysis: Studies the propagation of sound waves and their interaction with environments to assess noise levels and control.
+   - Vibroacoustics: Couples mechanical vibrations with acoustic problems, relevant in automotive and aerospace industries.
+
+11. Quantum Mechanics Simulations:
+    
+   - Molecular Dynamics: Simulates the physical movements of atoms and molecules.
+   - Quantum Chemistry: Studies the electronic structure of atoms and molecules.
+
+11. Multiscale Simulations:
+    
+   - Multiscale Modeling: Combines several simulation techniques to study systems at multiple scales, from molecular to macroscopic levels.
+
+11. Multiphysics Simulations:
+    
+   - Coupled Simulations: Integrates two or more physical models, such as fluid-structure interaction (FSI) or electro-thermal simulations, which are crucial for interdisciplinary studies and complex system analyses.
+
+<br>
+</details>
+
 ***
+
+### Experiments
+
 <details><summary>Moon with Earth's Gravity</summary>
 <br>
    
