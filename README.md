@@ -13,44 +13,45 @@ Physics simulations are computational tools that model and predict the behavior 
 
 1. Mechanical Simulations:
    
-   - Structural Analysis: Evaluates stress, strain, and deformation of structures under loads.
-   - Dynamics: Studies the movement of bodies under the action of forces.
-   - Vibration Analysis: Analyzes the oscillatory motion of structures and mechanical components.
+ - Structural Analysis: Evaluates stress, strain, and deformation of structures under loads.
+- Dynamics: Studies the movement of bodies under the action of forces.
+- Vibration Analysis: Analyzes the oscillatory motion of structures and mechanical components.
 
 3. Fluid Dynamics Simulations:
    
-   - Computational Fluid Dynamics (CFD): Simulates fluid flow, heat transfer, and associated phenomena.
-   - Aerodynamics: Focuses on air flow over bodies such as vehicles and buildings, important in aerospace and automotive industries.
-   - Hydrodynamics: Studies the flow of water and other liquids, relevant in marine and hydraulic applications.
+- Computational Fluid Dynamics (CFD): Simulates fluid flow, heat transfer, and associated phenomena.
+- Aerodynamics: Focuses on air flow over bodies such as vehicles and buildings, important in aerospace and automotive industries.
+- Hydrodynamics: Studies the flow of water and other liquids, relevant in marine and hydraulic applications.
 
 5. Thermal Simulations:
    
-   - Heat Transfer: Models conduction, convection, and radiation in various materials and environments.
-   - Thermodynamics: Analyzes energy transformations and efficiency in systems, often coupled with fluid dynamics for energy applications.
+- Heat Transfer: Models conduction, convection, and radiation in various materials and environments.
+- Thermodynamics: Analyzes energy transformations and efficiency in systems, often coupled with fluid dynamics for energy applications.
 
 7. Electromagnetic Simulations:
    
-   - Electrostatics: Deals with the behavior of static charges and their fields.
-   - Electrodynamics: Simulates the interaction of electric charges with dynamic electric and magnetic fields.
-   - Optics: Models the behavior of light and interaction with materials.
+- Electrostatics: Deals with the behavior of static charges and their fields.
+- Electrodynamics: Simulates the interaction of electric charges with dynamic electric and magnetic fields.
+- Optics: Models the behavior of light and interaction with materials.
 
 9. Acoustic Simulations:
     
-   - Noise Analysis: Studies the propagation of sound waves and their interaction with environments to assess noise levels and control.
-   - Vibroacoustics: Couples mechanical vibrations with acoustic problems, relevant in automotive and aerospace industries.
+- Noise Analysis: Studies the propagation of sound waves and their interaction with environments to assess noise levels and control.
+- Vibroacoustics: Couples mechanical vibrations with acoustic problems, relevant in automotive and aerospace industries.
 
 11. Quantum Mechanics Simulations:
     
-   - Molecular Dynamics: Simulates the physical movements of atoms and molecules.
-   - Quantum Chemistry: Studies the electronic structure of atoms and molecules.
+- Molecular Dynamics: Simulates the physical movements of atoms and molecules.
+- Quantum Chemistry: Studies the electronic structure of atoms and molecules.
 
 11. Multiscale Simulations:
     
-   - Multiscale Modeling: Combines several simulation techniques to study systems at multiple scales, from molecular to macroscopic levels.
+- Multiscale Modeling: Combines several simulation techniques to study systems at multiple scales, from molecular to macroscopic levels.
 
 11. Multiphysics Simulations:
     
-   - Coupled Simulations: Integrates two or more physical models, such as fluid-structure interaction (FSI) or electro-thermal simulations, which are crucial for interdisciplinary studies and complex system analyses.
+- Coupled Simulations: Integrates two or more physical models, such as fluid-structure interaction (FSI) or electro-thermal simulations, which are crucial for interdisciplinary studies and complex system 
+analyses.
 
 <br>
 </details>
