@@ -232,19 +232,19 @@ Traditional brick construction methods are not suitable for such heights due to 
 
 Deconstructing or simulating the destruction of the Great Pyramid of Giza is an interesting theoretical exercise that can be approached from various angles in physics and engineering. Here’s how you might consider the problem:
 
-1. Material and Construction Analysis
+#### 1. Material and Construction Analysis
    
 - Materials Used: The pyramid is primarily built from limestone blocks, with some granite in the inner chambers. Understanding the material properties such as density, compressive strength, and tensile strength is crucial.
 
 - Construction Techniques: Analyzing how the blocks are interlocked and the overall geometry of the pyramid helps in understanding how force and stress are distributed throughout the structure.
 
-3. Structural Stability
+#### 2. Structural Stability
    
 - Load Distribution: The pyramid shape naturally distributes weight down to the base, making it extremely stable. Calculating the load per block, especially at the base, would be essential.
 
 - Potential Weak Points: Identify areas that would be most susceptible to failure under stress, such as the base corners or the upper points where the weight is less but might have endured erosion.
 
-5. Theoretical Forces Required for Destruction
+#### 3. Theoretical Forces Required for Destruction
    
 - Physical Forces: Estimating the amount of force needed to either cause a collapse through the middle (like removing a keystone) or to topple it from the sides.
 
