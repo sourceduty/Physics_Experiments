@@ -261,6 +261,8 @@ Deconstructing or simulating the destruction of the Great Pyramid of Giza is an 
 [Metaphysical Science](https://github.com/sourceduty/Metaphysical_Science)
 <br>
 [Spacetime Simulator](https://github.com/sourceduty/Spacetime_Simulator)
+<br>
+[Math](https://github.com/sourceduty/Math)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
