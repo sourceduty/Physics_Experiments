@@ -253,5 +253,12 @@ Deconstructing or simulating the destruction of the Great Pyramid of Giza is an 
 <br>
 </details>
 
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Metaphysical Science](https://github.com/sourceduty/Metaphysical_Science)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
