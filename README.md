@@ -269,6 +269,10 @@ Deconstructing or simulating the destruction of the Great Pyramid of Giza is an 
 [Space Maintenance](https://github.com/sourceduty/Space_Maintenance)
 <br>
 [Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
