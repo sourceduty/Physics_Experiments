@@ -329,6 +329,8 @@ A neutrino experiment in China, Juno aims to study neutrino oscillation paramete
 [Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
 <br>
 [Multiphysics Simulator](https://chatgpt.com/g/g-9PVqGto6g-multiphysics-simulator)
+<br>
+[Diagnostic Physics](https://github.com/sourceduty/Diagnostic_Physics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
