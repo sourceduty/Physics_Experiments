@@ -1,6 +1,6 @@
 ![Physics](https://github.com/sourceduty/Physics/assets/123030236/c545e08b-85f4-4674-9f1f-ab5fc3ced7be)
 
-> Physics simulations using AI.
+> Physics simulations and experiments using AI.
 
 #
 
